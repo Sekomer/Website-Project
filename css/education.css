@@ -1,0 +1,11 @@
+.leftColEdu {   
+    float: left;
+    width: 75%;
+    margin-left: 10px;
+  }
+ 
+.rightColEdu {
+    float: right;
+    width: 75%;
+    margin-right: 10px;
+  }

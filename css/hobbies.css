@@ -1,0 +1,13 @@
+.leftColHob {   
+    float: left;
+    width: 50%;
+    margin-left: 10px;
+    text-align: center;
+  }
+ 
+.rightColHob {
+    float: right;
+    width: 50%;
+    margin-right: 10px;
+    text-align: center;
+  }
